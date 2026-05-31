@@ -7,7 +7,11 @@ Custom ESP32-S3 sensor platform designed from scratch, including schematic captu
 ⚠️ Rev A completed. A power architecture issue was identified during validation. Rev B redesign planned.
 
 ---
+## Schematic
 
+![Schematic](images/RevA_SCH_Proyecto ESP32-S3-WROOM-1)
+
+---
 ## Manufactured PCB
 
 ![PCB Top](images/RevA_PCB_Top.jpg)
