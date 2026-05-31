@@ -9,7 +9,7 @@ Custom ESP32-S3 sensor platform designed from scratch, including schematic captu
 ---
 ## Schematic
 
-![Schematic](images/RevA_SCH_Proyecto ESP32-S3-WROOM-1)
+![Schematic](images/RevA_SCH_Proyecto ESP32-S3-WROOM-1.png)
 
 ---
 ## Manufactured PCB
