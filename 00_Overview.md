@@ -25,11 +25,11 @@ Más allá del resultado funcional, el principal objetivo era recorrer el ciclo 
   
 ## PCB Rev A  
   
-![PCB Rev A - Vista superior](RevA_PCB_Top.jpg)  
+![PCB Rev A - Vista superior](images/RevA_PCB_Top.jpg)  
   
 Vista superior de la PCB fabricada.  
   
-![PCB Rev A - Vista inferior](RevA_PCB_Bottom.jpg)  
+![PCB Rev A - Vista inferior](images/RevA_PCB_Bottom.jpg)  
   
 Vista inferior de la PCB fabricada.  
   
@@ -37,11 +37,11 @@ Vista inferior de la PCB fabricada.
   
 ## Montaje  
   
-![Montaje parcial](Docs/RevA_PCB_Top_Half_Populated.jpg)  
+![Montaje parcial](images/RevA_PCB_Top_Half_Populated.jpg)  
   
 Primera fase de ensamblaje de componentes SMD.  
   
-![Montaje avanzado](Docs/RevA_PCB_Top_Populated.jpg)  
+![Montaje avanzado](images/RevA_PCB_Top_Populated.jpg)  
   
 Placa parcialmente ensamblada con ESP32-S3 y circuitería de alimentación.  
   
@@ -49,7 +49,7 @@ Placa parcialmente ensamblada con ESP32-S3 y circuitería de alimentación.
   
 ## Pruebas de alimentación  
   
-![Pruebas de alimentación](Docs/RevA_USB_Testing.jpg)  
+![Pruebas de alimentación](images/RevA_USB_Testing.jpg)  
   
 Validación inicial utilizando alimentación USB y herramientas de medida.  
   
