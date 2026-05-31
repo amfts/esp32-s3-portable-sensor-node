@@ -8,12 +8,6 @@ Custom ESP32-S3 sensor platform designed from scratch, including schematic captu
 
 ---
 
-## PCB Layout
-
-![PCB Layout](hardware/RevA_SCH_ESP32-S3_Portable_Sensor_Node_Schematic.pdf)
-
----
-
 ## Manufactured PCB
 
 ![PCB Top](images/RevA_PCB_Top.jpg)
