@@ -130,6 +130,14 @@ A Revision B is currently planned based on the lessons learned during validation
 
 ---
 
+## Power and LIS3DHTR CS fix
+
+![Power and LIS3DHTR CS fix top](images/RevA_PWR_CS_Fix_Top.jpg)
+
+![Power and LIS3DHTR CS fix top](images/RevA_PWR_CS_Fix_Side.jpg)
+
+---
+
 ## Bring-Up
 
 Initial firmware was developed to validate the hardware platform.
